@@ -8,6 +8,7 @@
 * Next.js 13
 * Typescript
 * TailwindCSS
+* Shadcn-ui
 * Firebase
 * Deployed on Vercel
 
